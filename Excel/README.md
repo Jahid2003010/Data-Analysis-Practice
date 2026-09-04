@@ -9,7 +9,7 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 ## 📚 Topics Practiced
 
 ### Basic Excel
-- Basic arithmetic calculations
+1. Arithmetic calculations: Practice with basic arithmetic operations and Excel functions such as SUM, PRODUCT, ROUND, ROUNDDOWN, and ROUNDUP and also practice subtraction, Multiplication and Division.
 - Excel formulas
 - Cell references
 - Relative and absolute references
@@ -24,6 +24,10 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 
 ### Excel Functions
 - SUM
+- Product
+- ROUND
+- ROUNDDOWN
+- ROUNDUP
 - AVERAGE
 - COUNT
 - COUNTA
@@ -34,9 +38,7 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 - COUNTIF / COUNTIFS
 - VLOOKUP / XLOOKUP
 - INDEX and MATCH
-- ROUND
-- ROUNDDOWN
-- ROUNDUP
+
 
 ### Data Analysis
 - Descriptive statistics
@@ -54,13 +56,6 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 - Scatter plots
 - Interactive dashboards
 
-## 📂 Practice Files
-
-| File | Description |
-|---|---|
-| `01-Arithmetic-calculation.xlsx` | Practice of basic arithmetic calculations and Excel functions |
-
-More practice files and projects will be added as I continue learning.
 
 ## 🛠️ Tool
 
@@ -76,6 +71,3 @@ My goal is to develop strong practical Excel skills and apply them to real-world
 - Research
 - Epidemiology
 
----
-
-**Learning • Practicing • Analyzing • Improving**
