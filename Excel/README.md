@@ -10,6 +10,7 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 
 ### Basic Excel
 1. Arithmetic calculations: Practice with basic arithmetic operations and Excel functions such as SUM, PRODUCT, ROUND, ROUNDDOWN, and ROUNDUP and also practice subtraction, Multiplication and Division.
+2. Mathematical Operations: Practice with mathematical operations and excel functions such as POWER, SQRT, ABS, ROMAN, GCD, LCM, LOG, EXP, PI, FACT, DGREES AND RADIANS.
 - Excel formulas
 - Cell references
 - Relative and absolute references
