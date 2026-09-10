@@ -12,12 +12,12 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 1. Arithmetic calculations: Practice with basic arithmetic operations and Excel functions such as SUM, PRODUCT, ROUND, ROUNDDOWN, and ROUNDUP and also practice subtraction, Multiplication and Division.
 2. Mathematical Operations: Practice with mathematical operations and excel functions such as POWER, SQRT, ABS, ROMAN, GCD, LCM, LOG, EXP, PI, FACT, DGREES AND RADIANS.
 3. Excel formulas
-
-i. SUM: Practicing SUM formula which adds all numbers in a specified range to find a quick, unconditional total; e.g., =SUM(A1:A10).
-ii. SUMIF: Practicing with SUMIF formula which adds values in a range that meet a single specific condition;
+   i. SUM: Practicing SUM formula which adds all numbers in a specified range to find a quick, unconditional total; e.g., =SUM(A1:A10).
+   ii. SUMIF: Practicing with SUMIF formula which adds values in a range that meet a single specific condition;
 e.g., =SUMIF(Range,Criteria,Sum range).
-iii. SUMIFS: Practicing SUMIFS formula which adds values in a range that meet multiple conditions simultaneously; 
+   iii. SUMIFS: Practicing SUMIFS formula which adds values in a range that meet multiple conditions simultaneously; 
 e.g., =SUMIFS(Sum range,Criteria range 1,Criteria 1,Criteria range 2,Criteria 2,Criteria range 3,Criteria 3,.......)
+   
 - Cell references
 - Relative and absolute references
 - Basic functions
