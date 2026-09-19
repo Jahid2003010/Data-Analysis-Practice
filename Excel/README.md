@@ -11,7 +11,7 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 ### Basic Excel
 - Arithmetic calculations: Practice with basic arithmetic operations and Excel functions such as SUM, PRODUCT, ROUND, ROUNDDOWN, and ROUNDUP and also practice subtraction, Multiplication and Division.
 - Mathematical Operations: Practice with mathematical operations and excel functions such as POWER, SQRT, ABS, ROMAN, GCD, LCM, LOG, EXP, PI, FACT, DGREES AND RADIANS.
-- Excel formulas
+- Excel formulas:
 1. SUM: Practicing SUM formula which adds all numbers in a specified range to find a quick, unconditional total; e.g., =SUM(A1:A10).
 2. SUMIF: Practicing with SUMIF formula which adds values in a range that meet a single specific condition;
 e.g., =SUMIF(Range,Criteria,Sum range).
@@ -22,7 +22,7 @@ e.g., =SUMIFS(Sum range,Criteria range 1,Criteria 1,Criteria range 2,Criteria 2,
 6. Goal Seek: A what-if analysis tool that finds the exact input value needed to achieve a specific target or goal in a formula.
 7. Flash fill: An AI-powered magical tool that automatically senses patterns in data and instantly fills the rest of the column.
    
-- Conditional Formatting
+- Conditional Formatting:
 1. Highlight Cells Rules: Practicing Greater than, Less than, Between, Equal to, Text that Contains, A Date Occurring functions.
 2. Top & Bottom Rules: Practicing with Top ten Items, Top 10%, Bottom ten items, Bottom 10%, Above average and Below average functions.
 3. Others: Data bar, Color Scales, Icon Set and clear rules from selected cell etc.
