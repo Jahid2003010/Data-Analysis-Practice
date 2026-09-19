@@ -17,6 +17,15 @@ The purpose of this folder is to develop practical Excel skills for data analysi
 e.g., =SUMIF(Range,Criteria,Sum range).
 3. SUMIFS: Practicing SUMIFS formula which adds values in a range that meet multiple conditions simultaneously; 
 e.g., =SUMIFS(Sum range,Criteria range 1,Criteria 1,Criteria range 2,Criteria 2,Criteria range 3,Criteria 3,.......)
+4. String Manipulation: Practice with Excel functions such as LOWER, UPPER, PROPER, TRIM, LEN, LEFT, RIGHT, MID, CONCAT, TEXTJOIN.
+5. Number Conversion: Practice with Excel number conversion functions such as Decimal to binary, Octal and Hexadecimal and vice versa.
+6. Goal Seek: A what-if analysis tool that finds the exact input value needed to achieve a specific target or goal in a formula.
+7. Flash fill: An AI-powered magical tool that automatically senses patterns in data and instantly fills the rest of the column.
+   
+-Conditional Formatting
+1. Highlight Cells Rules: Practicing Greater than, Less than, Between, Equal to, Text that Contains, A Date Occurring functions.
+2. Top & Bottom Rules: Practicing with Top ten Items, Top 10%, Bottom ten items, Bottom 10%, Above average and Below average functions.
+3. Others: Data bar, Color Scales, Icon Set and clear rules from selected cell etc.
    
 - Cell references
 - Relative and absolute references
